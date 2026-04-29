@@ -1,6 +1,6 @@
-# FacultyFlow
+# Sylla
 
-FacultyFlow is a React + TypeScript + Tailwind prototype for an investor-ready educational platform focused on helping professors structure course content, manage RAG-backed knowledge, identify weak points, and improve teaching clarity.
+Sylla is a React + TypeScript + Tailwind prototype for an investor-ready educational platform focused on helping professors structure course content, manage RAG-backed knowledge, identify weak points, and improve teaching clarity.
 
 ## Included
 
